@@ -1,48 +1,48 @@
-# Sociedade Brasileira de Geofísica (SBGf)
+# Brazilian Geophysical Society (SBGf)
 
-A **Sociedade Brasileira de Geofísica (SBGf)** é uma entidade científica sem fins lucrativos dedicada à promoção, ao desenvolvimento e à divulgação da Geofísica no Brasil.
+The **Brazilian Geophysical Society (SBGf)** is a non-profit scientific organization dedicated to the promotion, development, and dissemination of Geophysics in Brazil.
 
-Este espaço no GitHub reúne projetos, sistemas e iniciativas tecnológicas desenvolvidas ou apoiadas pela SBGf, com foco em inovação, colaboração e disseminação do conhecimento científico.
+This GitHub space brings together projects, systems, and technological initiatives developed or supported by SBGf, with a focus on innovation, collaboration, and the dissemination of scientific knowledge.
 
-## 🌎 Sobre a SBGf
+## 🌎 About SBGf
 
-Fundada em 1978, a SBGf atua na integração entre profissionais, pesquisadores, estudantes e instituições ligadas às diversas áreas da Geofísica, promovendo eventos científicos, publicações técnicas e ações educacionais.
+Founded in 1978, SBGf works to integrate professionals, researchers, students, and institutions connected to the various fields of Geophysics, promoting scientific events, technical publications, and educational initiatives.
 
-A tecnologia é parte essencial desse ecossistema, apoiando:
-- eventos científicos
-- submissão e avaliação de trabalhos
-- gestão de dados e informações
-- iniciativas educacionais e de divulgação científica
+Technology is an essential part of this ecosystem, supporting:
+- scientific events
+- paper submission and review processes
+- data and information management
+- educational and scientific outreach initiatives
 
-## 💻 O que você encontra aqui
+## 💻 What You’ll Find Here
 
-Neste GitHub estão concentrados projetos relacionados a:
+This GitHub organization hosts projects related to:
 
-- Plataformas de apoio a eventos e congressos  
-- Ferramentas internas e experimentais  
-- Protótipos, estudos e soluções em desenvolvimento  
-- Iniciativas open source ligadas à Geofísica e áreas correlatas  
+- Platforms supporting scientific events and conferences  
+- Internal and experimental tools  
+- Prototypes, studies, and solutions under development  
+- Open-source initiatives related to Geophysics and related fields  
 
-Alguns repositórios são públicos para colaboração e estudo; outros podem ser restritos conforme o contexto institucional.
+Some repositories are public for collaboration and learning, while others may be restricted depending on institutional context.
 
-## 🤝 Colaboração e Comunidade
+## 🤝 Collaboration and Community
 
-A SBGf incentiva a colaboração entre a comunidade científica e tecnológica.  
-Contribuições, sugestões e melhorias são bem-vindas nos projetos públicos, respeitando as diretrizes de cada repositório.
+SBGf encourages collaboration between the scientific and technological communities.  
+Contributions, suggestions, and improvements are welcome in public projects, in accordance with the guidelines of each repository.
 
-Se você é estudante, pesquisador ou desenvolvedor interessado em ciência e tecnologia aplicada à Geofísica, este espaço também é seu.
+If you are a student, researcher, or developer interested in science and technology applied to Geophysics, this space is also for you.
 
-## 🔗 Links Importantes
+## 🔗 Important Links
 
-- 🌐 Site oficial: [SBGf Homepage](https://home.sbgf.org.br)
-- 📅 Eventos científicos: [Eventos](https://home.sbgf.org.br/Pages/calendario.php#titulo) 
+- 🌐 Official website: [SBGf Homepage](https://home.sbgf.org.br)  
+- 📅 Scientific events: [Events](https://home.sbgf.org.br/Pages/calendario.php#titulo)
 
-## 📌 Observação
+## 📌 Notes
 
-Os projetos aqui disponibilizados têm finalidades científicas, educacionais e institucionais.  
-O conteúdo e o nível de maturidade variam conforme o estágio de desenvolvimento de cada iniciativa.
+The projects available here serve scientific, educational, and institutional purposes.  
+Content and maturity levels may vary according to the development stage of each initiative.
 
 ---
 
-**Sociedade Brasileira de Geofísica**  
-Ciência, tecnologia e colaboração a serviço do conhecimento 🌐🔬
+**Brazilian Geophysical Society**  
+Science, technology, and collaboration in service of knowledge 🌐🔬
